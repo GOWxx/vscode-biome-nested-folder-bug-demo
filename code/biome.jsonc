@@ -1,0 +1,17 @@
+{
+	"extends": [
+		"../biome.jsonc"
+	],
+	"linter": {
+		"enabled": true,
+		"rules": {
+			"recommended": true,
+			"complexity": {
+				"useArrowFunction": "off"
+			},
+			"style": {
+				"useConst": "off"
+			}
+		}
+	}
+}
