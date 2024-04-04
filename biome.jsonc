@@ -4,19 +4,22 @@
 		"enabled": true
 	},
 	"linter": {
-		"enabled": false,
-		"rules": {
-			"recommended": true
-			// "complexity": {
-			// 	"useArrowFunction": "off"
-			// },
-			// "style": {
-			// 	"useConst": "off"
-			// }
-		}
-	},
-	"formatter": {
-		"enabled": true,
-		"formatWithErrors": true
+		"enabled": false
 	}
+	// "linter": {
+	// 	"enabled": true,
+	// 	"rules": {
+	// 		"recommended": true
+	// "complexity": {
+	// 	"useArrowFunction": "off"
+	// },
+	// "style": {
+	// 	"useConst": "off"
+	// }
+	// }
+	// },
+	// "formatter": {
+	// 	"enabled": true,
+	// 	"formatWithErrors": true
+	// }
 }

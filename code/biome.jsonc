@@ -1,17 +1,12 @@
 {
-	"extends": [
-		"../biome.jsonc"
-	],
+	"$schema": "https://biomejs.dev/schemas/1.6.4/schema.json",
+	"organizeImports": {
+		"enabled": true
+	},
 	"linter": {
 		"enabled": true,
 		"rules": {
-			"recommended": true,
-			"complexity": {
-				"useArrowFunction": "off"
-			},
-			"style": {
-				"useConst": "off"
-			}
+			"recommended": true
 		}
 	}
 }
