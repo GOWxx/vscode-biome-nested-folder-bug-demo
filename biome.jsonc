@@ -4,8 +4,8 @@
 		"enabled": true
 	},
 	"linter": {
-		"enabled": false
-	}
+		"enabled": true
+	},
 	// "linter": {
 	// 	"enabled": true,
 	// 	"rules": {
@@ -18,8 +18,7 @@
 	// }
 	// }
 	// },
-	// "formatter": {
-	// 	"enabled": true,
-	// 	"formatWithErrors": true
-	// }
+	"formatter": {
+		"enabled": true
+	}
 }
